@@ -779,15 +779,30 @@
     </location>
   </country>
   <country>
-    <name>Israel</name>
-    <name xml:lang="ar">إسرائيل</name>
-    <name xml:lang="bs">Izrael</name>
-    <name xml:lang="es">Israel</name>
-    <name xml:lang="fa">اسرائیل</name>
-    <name xml:lang="fr">Israël</name>
-    <name xml:lang="id">Israel</name>
-    <name xml:lang="ru">Израиль</name>
-    <name xml:lang="tr">İsrail</name>
+    <name>Palestine</name>
+    <name xml:lang="ar">فلسطين</name>
+    <name xml:lang="bs">Palestina</name>
+    <name xml:lang="es">Palestina</name>
+    <name xml:lang="fa">پلستاین</name>
+    <name xml:lang="fr">Palestine</name>
+    <name xml:lang="id">Palestina</name>
+    <name xml:lang="ru">Palestine</name>
+    <name xml:lang="tr">Palestine</name>
+	<location>
+      
+      <name>Jerusalem</name>
+      <name xml:lang="ar">القدس</name>
+      <name xml:lang="bs">Jerusalim</name>
+      <name xml:lang="es">Jerusalén</name>
+      <name xml:lang="fa">اورشلیم</name>
+      <name xml:lang="fr">Jérusalem</name>
+      <name xml:lang="id">Jerusalem</name>
+      <name xml:lang="ru">Иерусалим</name>
+      <name xml:lang="tr">Kudüs</name>
+      <code>LLJR</code>
+      <coordinates>31-46N 035-13E</coordinates>
+    </location>
+	
     <location>
       
       <name>Ben-Gurion</name>
@@ -842,7 +857,7 @@
     <location>
       
       <name>Tel Aviv</name>
-      <name xml:lang="ar">تل ابيب</name>
+      <name xml:lang="ar">تل أبيب</name>
       <name xml:lang="es">Tel Aviv</name>
       <name xml:lang="fa">تل‌آویو</name>
       <name xml:lang="fr">Tel Aviv</name>
